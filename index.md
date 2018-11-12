@@ -24,4 +24,4 @@ Each scanned receipt helps us to find best deals available.
 In return, we reward you with coupons for your next shopping day.
 
 ## Reports
-[Analysis Report](https://farkett.com/docs/AnalysisReport.pdf)
+[Analysis Report](/docs/AnalysisReport.pdf)
