@@ -22,3 +22,6 @@ Just make a shopping list and we will tell you how much it costs.
 Join the growing community of shoppers in Turkey working together to save each other time and money.  
 Each scanned receipt helps us to find best deals available.  
 In return, we reward you with coupons for your next shopping day.
+
+## Reports
+[Analysis Report](https://farkett.com/docs/AnalysisReport.pdf)
