@@ -23,5 +23,15 @@ Join the growing community of shoppers in Turkey working together to save each o
 Each scanned receipt helps us to find best deals available.  
 In return, we reward you with coupons for your next shopping day.
 
+## Meet the Team
+
+Deniz Alkışlar  
+Buğra Aydın  
+Erim Erdal  
+Enes Keleş  
+Hakan Türkmenoğlu  
+
 ## Reports
+[Specifications Report](/docs/SpecificationsReport.pdf)  
 [Analysis Report](/docs/AnalysisReport.pdf)
+
