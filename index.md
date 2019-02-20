@@ -32,6 +32,7 @@ Enes Keleş
 Hakan Türkmenoğlu  
 
 ## Reports
+[High Level Design Report](docs/HighLevelDesignReport.pdf)
 [Specifications Report](/docs/SpecificationsReport.pdf)  
 [Analysis Report](/docs/AnalysisReport.pdf)
 
