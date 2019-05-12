@@ -1,12 +1,12 @@
 ![Poster](/assets/img/farkett_poster.png)
 
-<div id='reports'>
-  
-## Reports
-[Final Report](/docs/FinalReport.pdf)  
-[Low Level Design Report](/docs/LowLevelDesignReport.pdf)  
-[High Level Design Report](/docs/HighLevelDesignReport.pdf)  
-[Specifications Report](/docs/SpecificationsReport.pdf)  
-[Analysis Report](/docs/AnalysisReport.pdf)
-
+<div id='reports-container'>
+  <h2 id="reports">Reports</h2>
+  <p>
+    <a href="/docs/FinalReport.pdf">Final Report</a><br>
+    <a href="/docs/LowLevelDesignReport.pdf">Low Level Design Report</a><br>
+    <a href="/docs/HighLevelDesignReport.pdf">High Level Design Report</a><br>
+    <a href="/docs/SpecificationsReport.pdf">Specifications Report</a><br>
+    <a href="/docs/AnalysisReport.pdf">Analysis Report</a>
+  </p>
 </div>
