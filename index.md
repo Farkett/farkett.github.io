@@ -9,4 +9,7 @@
     <a href="/docs/SpecificationsReport.pdf">Specifications Report</a><br>
     <a href="/docs/AnalysisReport.pdf">Analysis Report</a>
   </p>
+  <h2 id="team">Team</h2>
 </div>
+
+![Team](/assets/img/team.png)
