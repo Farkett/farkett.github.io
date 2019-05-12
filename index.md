@@ -1,6 +1,6 @@
 ![Poster](/assets/img/farkett_poster.png)
 
-<center>
+<div id='reports'>
   
 ## Reports
 [Final Report](/docs/FinalReport.pdf)  
@@ -9,4 +9,4 @@
 [Specifications Report](/docs/SpecificationsReport.pdf)  
 [Analysis Report](/docs/AnalysisReport.pdf)
 
-</center>
+</div>
