@@ -42,3 +42,8 @@
 .main-content h6 {
     color: hsl(36, 92%, 62%);
 }
+
+.main-content {
+    padding: 0;
+    max-width: unset;
+}
