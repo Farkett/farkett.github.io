@@ -1,5 +1,7 @@
 ![Poster](/assets/img/farkett_poster.png)
 
+<center>
+  
 ## Reports
 [Final Report](/docs/FinalReport.pdf)  
 [Low Level Design Report](/docs/LowLevelDesignReport.pdf)  
@@ -7,3 +9,4 @@
 [Specifications Report](/docs/SpecificationsReport.pdf)  
 [Analysis Report](/docs/AnalysisReport.pdf)
 
+</center>
